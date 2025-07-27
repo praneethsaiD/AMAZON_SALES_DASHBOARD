@@ -37,7 +37,7 @@ To view and interact with this Power BI dashboard, follow these steps:
     * If provided as a file: Download the `[Your_Dashboard_Name].pbix` file.
 3.  **Open the Dashboard:**
     * Launch Power BI Desktop.
-    * Go to `File` > `Open report` and navigate to the downloaded `[Your_Dashboard_Name].pbix` file.
+    * Go to `File` > `Open report` and navigate to the downloaded (https://github.com/praneethsaiD/AMAZON_SALES_DASHBOARD/blob/main/Amazon%20sales%20Dashboard.pbix) file.
 4.  **Data Refresh (if applicable):**
     * If the data source is not embedded or requires a refresh, Power BI might prompt you to provide credentials or confirm the data source location.
     * To manually refresh data, go to `Home` tab > `Refresh`.
@@ -48,18 +48,13 @@ The Power BI file (`.pbix`) contains:
 
 * **Data Model:** Defines relationships between tables and calculated measures (DAX).
 * **Power Query Editor:** Contains the steps for data extraction, transformation, and loading (ETL) of the `Amazon_Data.csv` file.
-* **Report Pages:** Multiple pages visualizing different aspects of the sales data. [Optionally, list out specific page names here, e.g., "Sales Overview", "Product Analysis", "Regional Performance"].
+* **Report Pages:** Multiple pages visualizing different aspects of the sales data.
 
 ## Usage
 
 * **Interactivity:** Click on visuals, use slicers, and drill-down buttons to explore data at different levels of detail.
 * **Filters:** Utilize the filter pane to apply specific filters and customize your view.
 * **Tooltips:** Hover over data points to see additional details in tooltips.
-
-## Future Enhancements
-
-* [List any planned features or improvements, e.g., "Integrate customer demographics for deeper analysis," "Add forecasting capabilities," "Connect to live data source."]
-* [e.g., "Implement Row-Level Security for different user roles."]
 
 ## Contact
 
